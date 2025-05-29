@@ -1,5 +1,3 @@
-  <iframe width="1044" height="587" src="https://github.com/kkii0801/portfolio/blob/main/images/video1.mp4?raw=true">
-
 <!-- HTML 태그 사용 가능 -->
 # h1
 ## h2
