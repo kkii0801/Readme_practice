@@ -1,3 +1,6 @@
+<video>
+  <source src="https://github.com/kkii0801/portfolio/blob/main/images/video1.mp4">
+</video>
 <!-- HTML 태그 사용 가능 -->
 # h1
 ## h2
