@@ -1,4 +1,4 @@
-<video>
+<video autoplay playsinline loop muted>
   <source src="https://github.com/kkii0801/portfolio/blob/main/images/video1.mp4">
 </video>
 
