@@ -1,5 +1,5 @@
 <video autoplay playsinline loop muted>
-  <source src="https://github.com/kkii0801/portfolio/blob/main/images/video1.mp4">
+  <source src="https://github.com/kkii0801/portfolio/blob/main/images/video1.mp4?raw=true">
 </video>
 
 <!-- HTML 태그 사용 가능 -->
